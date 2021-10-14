@@ -3,7 +3,7 @@
 
 As an interface designer, I organize, plan, and create using any surface where two objects or forces meet. Indeed, given enough time, space and opportunity.
 
-I was educated as a graphic designer/ illustrator but I am a self taught typescript developer. 
+I was educated as a graphic designer/ illustrator but I am a self-taught javascript developer. 
 
 <!--
 **bresnow/bresnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
