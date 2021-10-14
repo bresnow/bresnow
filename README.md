@@ -1,4 +1,4 @@
-### I'm ## Bresnow.
+### I'm Bresnow.
 #### I create digital products and identity assets.
 
 As an interface designer, I organize, plan, and create using any surface where two objects or forces meet. Indeed, given enough time, space and opportunity. What I do is create digital products and identity assets. 
