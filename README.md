@@ -1,7 +1,9 @@
 ### I'm ## Bresnow.
 #### I create digital products and identity assets.
 
-I call myself "an interface designer". What it means is that I can organize, plan, and create using any surface where two objects or forces meet. Indeed, given enough time, space and opportunity. What I do is create digital products and identity assets. 
+As an interface designer, I organize, plan, and create using any surface where two objects or forces meet. Indeed, given enough time, space and opportunity. What I do is create digital products and identity assets. 
+
+I was educated as a graphic designer/ illustrator but I am a self taught typescript developer. 
 
 <!--
 **bresnow/bresnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
