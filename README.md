@@ -1,12 +1,9 @@
 ## I'm Bresnow.
 #### I create digital products and identity assets.
 
-#### This repo hub is a ✨ _special_ ✨  mess... almost everything in here is in development or a rough draft. I'm putting together an organization page for my finished stuff. My comments contain swear words and have no regard for spelling or grammar... because im a a fucking gangsta
-
-
 As an interface designer, I organize, plan, and create using any surface where two objects or forces meet. Indeed, given enough time, space and opportunity.
 
-I was educated as a graphic designer/ illustrator but I am a self-taught in javascript, docker, and shell. 
+graphic designer/ illustrator ... javascript, docker, and shell developer. 
 
 <!--
 **bresnow/bresnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
